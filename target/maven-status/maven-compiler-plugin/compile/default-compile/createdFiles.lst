@@ -1,0 +1,4 @@
+com/akhil/pdf/PdfOperations/split/SplitPDF.class
+com/akhil/pdf/PdfOperations/split/service/PdfServiceImpl.class
+com/akhil/pdf/PdfOperations/PdfOperationsApplication.class
+com/akhil/pdf/PdfOperations/split/controller/PdfServiceController.class
