@@ -5,7 +5,6 @@ import org.apache.pdfbox.Loader;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;
 import org.springframework.stereotype.Component;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
@@ -13,7 +12,6 @@ import java.util.Objects;
 
 /**
  * This service class provides functionalities for splitting PDF files.
- * It's intended to be used internally by other components and is annotated with
  *
  * @author akhilkanakendran
  */
